@@ -1,0 +1,3 @@
+pyrogram
+kucoin-python
+python-dotenv
